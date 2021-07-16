@@ -49,5 +49,4 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
-https://drive.google.com/file/d/1F6HZkw3v8OO9_n__RMSE1ej8z1nX3zjE/view
-https://github.com/pydeveloperashish/Facial-Expressions-Recognition
+
